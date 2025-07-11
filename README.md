@@ -5,7 +5,7 @@ Prescripto is a full-stack doctor-patient appointment booking platform built usi
 ## 🚀 Features
 - 🔐 **Authentication**: Secure login/signup for doctors and patients using JWT & Bcrypt  
 - 📅 **Appointment Booking**: Real-time slot management and booking system  
-- 💬 **AI Chatbot (MediBot)**: OpenAI-integrated chatbot for instant health guidance  
+- 💬 **AI Chatbot (MediBot)**: Gemini-integrated chatbot for instant health guidance  
 - ☁️ **Media Handling**: Upload and manage doctor/patient images using Cloudinary  
 - 💳 **Payments**: Secure payment flow using Stripe API  
 - 📊 **Admin Panel**: Dashboard for managing doctors and monitoring platform data  
