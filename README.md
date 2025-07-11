@@ -20,9 +20,6 @@ Prescripto is a full-stack doctor-patient appointment booking platform built usi
 - **Payments**: Stripe  
 - **Chatbot**: OpenAI API  
 
-
-## 🖼️ Screenshots
-
 ## 🖼️ Screenshots
 
 - ![Screenshot 10](https://github.com/user-attachments/assets/431975cc-c0f7-4932-9ba7-c13c96399fad)
