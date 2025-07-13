@@ -23,15 +23,15 @@ Prescripto is a full-stack doctor-patient appointment booking platform built usi
 ## 🔧 Setup & Installation
 
 ### 📁 Clone the Repository
-# Install backend dependencies
+## Install backend dependencies
 cd backend
 npm install
 
-# Install frontend dependencies
+## Install frontend dependencies
 cd ../frontend
 npm install
 
-# Configure Environment Variables
+## Configure Environment Variables
 - MONGO_URI=your_mongodb_connection_string
 - JWT_SECRET=your_jwt_secret
 - CLOUDINARY_NAME=your_cloudinary_cloud_name
@@ -40,7 +40,7 @@ npm install
 - STRIPE_SECRET_KEY=your_stripe_secret_key
 - GEMINI_API_KEY=your_gemini_api_key
 
-# Run the App Locally
+## Run the App Locally
 
 ## 🖼️ Screenshots
 
